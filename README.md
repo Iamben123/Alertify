@@ -8,8 +8,8 @@
 
 ## 📥 Download the App
 
-> 🔗 [Download Alertify APK]([https://your-download-link-here.com](https://drive.google.com/file/d/1SWp1EAOuCMGCmPYrlsv6qFPjfYHwIIEq/view?usp=sharing))  
-Paste your APK or deployment link here to allow testers and users to access the app.
+> 🔗 [Download Alertify APK](https://drive.google.com/file/d/1SWp1EAOuCMGCmPYrlsv6qFPjfYHwIIEq/view?usp=sharing).
+
 
 ---
 
