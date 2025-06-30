@@ -1,0 +1,60 @@
+# 🚨 Alertify – Emergency Sound Detection App
+
+**Alertify** is a production-grade accessibility app designed for the deaf and hard of hearing. It uses AI-powered real-time audio analysis to detect emergency sounds and alerts users with visual and haptic feedback.
+
+---
+
+## 📲 Download APK
+
+[**⬇️ Download Alertify APK**](https://drive.google.com/file/d/1SWp1EAOuCMGCmPYrlsv6qFPjfYHwIIEq/view?usp=sharing)
+
+> ⚠️ To install the APK, you may need to allow “Install from Unknown Sources” in your device settings.
+
+---
+
+## 🎥 Demo Video
+
+[Watch the Demo on YouTube](https://youtu.be/-Fh-dECzIoY?si=I7lbXXrlfI8lEsNK)  
+
+
+---
+
+## ⚙️ Features
+
+- Detects 8 emergency sounds (alarms, sirens, glass break, etc.)
+- Visual and haptic alerts
+- Cloud sync with Supabase
+- Works offline after install
+- Accessibility-first design
+
+---
+
+## 🛠 Built With
+
+- React Native + Expo SDK
+- Supabase (for Auth & Data)
+- Web Audio API
+- TypeScript
+- Expo AV
+
+---
+
+## 🔐 Privacy
+
+- No audio is recorded or stored
+- All detection is done in real-time, on-device
+- Optional cloud sync with secure authentication
+
+---
+
+## 🧠 Inspiration
+
+466 million people live with hearing loss. Many can't hear life-threatening sounds like fire alarms or sirens. Alertify gives them independence and safety — in real time.
+
+---
+
+## 📫 Contact
+
+Made with 💙 by [Ben]
+
+---
