@@ -4,6 +4,15 @@
 
 **Alertify** is a revolutionary emergency sound detection app designed specifically for the deaf and hard of hearing community. Using advanced AI and machine learning, Alertify provides real-time detection of emergency sounds with powerful visual and haptic feedback.
 
+---
+
+## 📥 Download the App
+
+> 🔗 [Download Alertify APK](https://your-download-link-here.com)  
+Paste your APK or deployment link here to allow testers and users to access the app.
+
+---
+
 ## 🎯 **Mission Statement**
 
 > *"Inspired by witnessing a hearing-impaired person struggling to navigate traffic safely, Alertify was created to bridge the gap between sound and safety, ensuring everyone can detect life-saving emergency alerts through multiple sensory channels."*
@@ -50,6 +59,8 @@
 - **Privacy-Focused** with Row Level Security (RLS)
 - **GDPR Compliant** data handling
 
+---
+
 ## 🚀 **Technology Stack**
 
 ### **Frontend Excellence**
@@ -72,6 +83,8 @@
 - **Production-Grade** noise filtering and adaptation
 - **Cross-Platform** audio engine optimization
 
+---
+
 ## 🎯 **Target Impact**
 
 ### **Primary Beneficiaries**
@@ -87,6 +100,8 @@
 - **Emergency Response** - Siren and horn detection
 - **Accessibility Support** - Daily life sound awareness
 - **Peace of Mind** - 24/7 safety monitoring
+
+---
 
 ## 🏆 **Hackathon Highlights**
 
@@ -118,15 +133,17 @@
 - ✅ **Partnership Opportunities** with healthcare and safety organizations
 - ✅ **Global Expansion** potential across all markets
 
-
+---
 
 ## 📊 **Performance Metrics**
 
-- **⚡ Detection Speed**: < 100ms response time
-- **🎯 Accuracy**: 95%+ confidence scoring
-- **🔋 Battery Optimized**: Minimal power consumption
-- **📱 Cross-Platform**: 100% feature parity
-- **♿ Accessibility**: WCAG 2.1 AA compliant
+- **⚡ Detection Speed**: < 100ms response time  
+- **🎯 Accuracy**: 95%+ confidence scoring  
+- **🔋 Battery Optimized**: Minimal power consumption  
+- **📱 Cross-Platform**: 100% feature parity  
+- **♿ Accessibility**: WCAG 2.1 AA compliant  
+
+---
 
 ## 🌟 **What Makes Alertify Special**
 
@@ -145,9 +162,7 @@ Every line of code is production-ready with comprehensive error handling, perfor
 ### **5. Beautiful User Experience**
 Apple-level design aesthetics with smooth animations and intuitive navigation make safety monitoring a delightful experience.
 
-
 ---
 
-**Built with ❤️ for accessibility, safety, and the deaf & hard of hearing community**
-
+**Built with ❤️ for accessibility, safety, and the deaf & hard of hearing community**  
 *Alertify - Bridging the gap between sound and safety, one detection at a time.*
